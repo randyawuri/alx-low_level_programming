@@ -6,3 +6,4 @@
 * 5-printf.c: prints a string of characters using thr printf() function.
 * 6-size.c: prints the size of various data types on the computer it is compiled on.
 * 100-intel: generates the assembly code (Intel syntax) of a C code and save it in an output file.
+* 101-quote.c: prints a quote and returns 1.
