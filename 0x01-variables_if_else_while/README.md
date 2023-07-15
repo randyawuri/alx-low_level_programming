@@ -7,3 +7,4 @@
 * 5-print_numbers.c: prints numbers 0 - 9.
 * 6-print_numberz.c: prints numbers 0 - 9 using the putchar() function.
 * 8-print_base16.c: prints the hexadecimal numbers 0 - F in lower case.
+* 9-print_comb.c: prints all possible combinations of single digit numbers.
