@@ -5,3 +5,4 @@
 * 3-print_alphabets.c: prints the alphabets in lower case, then in uppercase, followed by a new line.
 * 4-print_alphabt.c: prints the aphabets without letters q and e, followed by a new line.
 * 5-print_numbers.c: prints numbers 0 - 9.
+* 6-print_numberz.c: prints numbers 0 - 9 using the putchar() function.
