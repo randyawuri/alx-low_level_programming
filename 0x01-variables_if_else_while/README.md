@@ -9,3 +9,4 @@
 * 8-print_base16.c: prints the hexadecimal numbers 0 - F in lower case.
 * 9-print_comb.c: prints all possible combinations of single digit numbers.
 * 100-print_comb3.c: prints all posible combinations of two digits.
+* 101-print_comb4.c: prints every posible combinations of three digits.
